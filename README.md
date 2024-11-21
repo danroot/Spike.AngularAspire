@@ -1,9 +1,9 @@
 To run in VSCode:
-- run `npm install` in the angular project directory
+- run `sudo npm install` in the angular project directory
 - launch Spike.AngularAspire.AppHost in VSCode
 
 To run in CLI
-- run `npm install` in the angular project directory
+- run `sudo npm install` in the angular project directory
 - run `dotnet run` in the AppHost directory
 
 To reproduce the issue:
